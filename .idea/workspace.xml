@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25c5e344-b826-4931-998a-c89a317c1008" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/data_structures_and_algorithms_in_Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/data_structures_and_algorithms_in_Python.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第二张抽象数据类型和Python类/第二章抽象数据类型和Python类.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/第一章绪论/第一章绪论.txt" beforeDir="false" afterPath="$PROJECT_DIR$/第一章绪论/第一章绪论.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,19 +14,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/第一章绪论/第一章绪论.txt">
+        <entry file="file://$PROJECT_DIR$/第二张抽象数据类型和Python类/第二章抽象数据类型和Python类.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="842">
-              <caret line="208" column="26" selection-start-line="208" selection-start-column="26" selection-end-line="208" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/第一章绪论/sqrt.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="817">
+              <caret line="42" selection-start-line="42" selection-end-line="42" />
             </state>
           </provider>
         </entry>
@@ -50,6 +39,7 @@
       <list>
         <option value="$PROJECT_DIR$/第一章绪论/sqrt.py" />
         <option value="$PROJECT_DIR$/第一章绪论/第一章绪论.txt" />
+        <option value="$PROJECT_DIR$/第二张抽象数据类型和Python类/第二章抽象数据类型和Python类.txt" />
       </list>
     </option>
   </component>
@@ -62,7 +52,25 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="data_structures_and_algorithms_in_Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="data_structures_and_algorithms_in_Python" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="data_structures_and_algorithms_in_Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="data_structures_and_algorithms_in_Python" type="462c0819:PsiDirectoryNode" />
+              <item name="第二张抽象数据类型和Python类" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -126,7 +134,7 @@
   <component name="ToolWindowManager">
     <frame x="956" y="0" width="964" height="1040" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.47569802" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.475162" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -149,7 +157,7 @@
     <entry file="file://D:/Python/Python37/Lib/site-packages/selenium/webdriver/support/expected_conditions.py" />
     <entry file="file://$PROJECT_DIR$/第一章绪论/第一章绪论.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="842">
+        <state relative-caret-position="1507">
           <caret line="208" column="26" selection-start-line="208" selection-start-column="26" selection-end-line="208" selection-end-column="26" />
         </state>
       </provider>
@@ -158,6 +166,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第二张抽象数据类型和Python类/第二章抽象数据类型和Python类.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="817">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
         </state>
       </provider>
     </entry>
