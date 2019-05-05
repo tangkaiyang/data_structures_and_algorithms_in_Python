@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25c5e344-b826-4931-998a-c89a317c1008" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/第二张抽象数据类型和Python类/person_manage_system.py" beforeDir="false" afterPath="$PROJECT_DIR$/第二张抽象数据类型和Python类/person_manage_system.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/第二张抽象数据类型和Python类/第二章抽象数据类型和Python类.txt" beforeDir="false" afterPath="$PROJECT_DIR$/第二张抽象数据类型和Python类/第二章抽象数据类型和Python类.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三章线性表/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三章线性表/第三章线性表.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,19 +14,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/第二张抽象数据类型和Python类/第二章抽象数据类型和Python类.txt">
+        <entry file="file://$PROJECT_DIR$/第三章线性表/第三章线性表.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="840">
-              <caret line="372" selection-start-line="372" selection-end-line="372" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/第二张抽象数据类型和Python类/person_manage_system.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="816">
-              <caret line="147" column="51" selection-start-line="147" selection-start-column="51" selection-end-line="147" selection-end-column="51" />
+            <state relative-caret-position="38">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
         </entry>
@@ -54,6 +45,7 @@
         <option value="$PROJECT_DIR$/第二张抽象数据类型和Python类/heapq_try.py" />
         <option value="$PROJECT_DIR$/第二张抽象数据类型和Python类/person_manage_system.py" />
         <option value="$PROJECT_DIR$/第二张抽象数据类型和Python类/第二章抽象数据类型和Python类.txt" />
+        <option value="$PROJECT_DIR$/第三章线性表/第三章线性表.txt" />
       </list>
     </option>
   </component>
@@ -66,7 +58,25 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes />
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="data_structures_and_algorithms_in_Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="data_structures_and_algorithms_in_Python" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="data_structures_and_algorithms_in_Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="data_structures_and_algorithms_in_Python" type="462c0819:PsiDirectoryNode" />
+              <item name="第三章线性表" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -217,9 +227,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="952" y="0" width="977" height="1038" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.475162" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.47497338" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -278,6 +287,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/第二张抽象数据类型和Python类/第二章抽象数据类型和Python类.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="336" column="8" lean-forward="true" selection-start-line="336" selection-start-column="8" selection-end-line="336" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/第二张抽象数据类型和Python类/person_manage_system.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="816">
@@ -285,10 +301,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/第二张抽象数据类型和Python类/第二章抽象数据类型和Python类.txt">
+    <entry file="file://$PROJECT_DIR$/第三章线性表/第三章线性表.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="840">
-          <caret line="372" selection-start-line="372" selection-end-line="372" />
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
