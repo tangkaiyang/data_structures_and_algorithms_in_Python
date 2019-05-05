@@ -96,6 +96,16 @@ class LList:
                 yield p.elem
             p = p.next
 
+    # 链表反转
+    def rev(self):
+        p = None
+        while self._head is not None:
+            q = self._head
+            self._head = q.next # 摘下原来的首结点
+            q._next = p
+            p = q               # 将刚摘下的结点加入p引用的结点序列
+        self._head = p          # 反转后的结点序列已经做好,重置表头链接
+
 
 if __name__ == '__main__':
     # llist1 = LNode(1)

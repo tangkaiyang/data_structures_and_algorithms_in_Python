@@ -2,17 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25c5e344-b826-4931-998a-c89a317c1008" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/第三章线性表/linklist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三章线性表/dlist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三章线性表/lclist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三章线性表/llist1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/data_structures_and_algorithms_in_Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/data_structures_and_algorithms_in_Python.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第三章线性表/linklist.py" beforeDir="false" afterPath="$PROJECT_DIR$/第三章线性表/linklist.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/第三章线性表/第三章线性表.txt" beforeDir="false" afterPath="$PROJECT_DIR$/第三章线性表/第三章线性表.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/第二张抽象数据类型和Python类/cls_counter.py" beforeDir="false" afterPath="$PROJECT_DIR$/第二章抽象数据类型和Python类/cls_counter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/第二张抽象数据类型和Python类/gcd.py" beforeDir="false" afterPath="$PROJECT_DIR$/第二章抽象数据类型和Python类/gcd.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/第二张抽象数据类型和Python类/heapq_try.py" beforeDir="false" afterPath="$PROJECT_DIR$/第二章抽象数据类型和Python类/heapq_try.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/第二张抽象数据类型和Python类/person_manage_system.py" beforeDir="false" afterPath="$PROJECT_DIR$/第二章抽象数据类型和Python类/person_manage_system.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/第二张抽象数据类型和Python类/rational.py" beforeDir="false" afterPath="$PROJECT_DIR$/第二章抽象数据类型和Python类/rational.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/第二张抽象数据类型和Python类/第二章抽象数据类型和Python类.txt" beforeDir="false" afterPath="$PROJECT_DIR$/第二章抽象数据类型和Python类/第二章抽象数据类型和Python类.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,20 +19,53 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/第三章线性表/第三章线性表.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="765">
-              <caret line="240" column="8" lean-forward="true" selection-start-line="240" selection-start-column="8" selection-end-line="240" selection-end-column="8" />
+            <state relative-caret-position="573">
+              <caret line="288" selection-start-line="288" selection-end-line="288" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/第三章线性表/dlist.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-40">
+              <caret line="30" column="27" lean-forward="true" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
+              <folding>
+                <element signature="e#159#206#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/第三章线性表/llist1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="721">
+              <caret line="51" column="27" lean-forward="true" selection-start-line="51" selection-start-column="27" selection-end-line="51" selection-end-column="27" />
+              <folding>
+                <element signature="e#160#214#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/第三章线性表/lclist.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="473">
+              <caret line="62" lean-forward="true" selection-start-line="62" selection-end-line="62" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/第三章线性表/linklist.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="94" column="28" lean-forward="true" selection-start-line="94" selection-start-column="28" selection-end-line="94" selection-end-column="28" />
+            <state relative-caret-position="466">
+              <caret line="106" column="53" selection-start-line="106" selection-start-column="53" selection-end-line="106" selection-end-column="53" />
             </state>
           </provider>
         </entry>
@@ -63,8 +93,11 @@
         <option value="$PROJECT_DIR$/第二张抽象数据类型和Python类/heapq_try.py" />
         <option value="$PROJECT_DIR$/第二张抽象数据类型和Python类/person_manage_system.py" />
         <option value="$PROJECT_DIR$/第二张抽象数据类型和Python类/第二章抽象数据类型和Python类.txt" />
-        <option value="$PROJECT_DIR$/第三章线性表/linklist.py" />
+        <option value="$PROJECT_DIR$/第三章线性表/llist1.py" />
+        <option value="$PROJECT_DIR$/第三章线性表/lclist.py" />
+        <option value="$PROJECT_DIR$/第三章线性表/dlist.py" />
         <option value="$PROJECT_DIR$/第三章线性表/第三章线性表.txt" />
+        <option value="$PROJECT_DIR$/第三章线性表/linklist.py" />
       </list>
     </option>
   </component>
@@ -97,49 +130,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.linklist">
-    <configuration name="cls_counter" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="data_structures_and_algorithms_in_Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第二张抽象数据类型和Python类" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第二张抽象数据类型和Python类/cls_counter.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="gcd" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="data_structures_and_algorithms_in_Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第二张抽象数据类型和Python类" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第二张抽象数据类型和Python类/gcd.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.lclist">
     <configuration name="heapq_try" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="data_structures_and_algorithms_in_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -161,6 +152,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="lclist" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="data_structures_and_algorithms_in_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第三章线性表" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第三章线性表/lclist.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="linklist" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="data_structures_and_algorithms_in_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -174,6 +186,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第三章线性表/linklist.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="llist1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="data_structures_and_algorithms_in_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第三章线性表" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第三章线性表/llist1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -205,11 +238,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.lclist" />
+        <item itemvalue="Python.llist1" />
         <item itemvalue="Python.linklist" />
         <item itemvalue="Python.person_manage_system" />
         <item itemvalue="Python.heapq_try" />
-        <item itemvalue="Python.cls_counter" />
-        <item itemvalue="Python.gcd" />
       </list>
     </recent_temporary>
   </component>
@@ -234,7 +267,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.14696133" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.29535398" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.29327452" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -279,25 +312,46 @@
     <entry file="file://$PROJECT_DIR$/第二章抽象数据类型和Python类/rational.py" />
     <entry file="file://$PROJECT_DIR$/第二章抽象数据类型和Python类/cls_counter.py" />
     <entry file="file://$PROJECT_DIR$/第二章抽象数据类型和Python类/heapq_try.py" />
-    <entry file="file://$PROJECT_DIR$/第二章抽象数据类型和Python类/第二章抽象数据类型和Python类.txt">
+    <entry file="file://$PROJECT_DIR$/第二章抽象数据类型和Python类/第二章抽象数据类型和Python类.txt" />
+    <entry file="file://$PROJECT_DIR$/第二章抽象数据类型和Python类/person_manage_system.py" />
+    <entry file="file://$PROJECT_DIR$/第三章线性表/llist1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="336" column="8" lean-forward="true" selection-start-line="336" selection-start-column="8" selection-end-line="336" selection-end-column="8" />
+        <state relative-caret-position="721">
+          <caret line="51" column="27" lean-forward="true" selection-start-line="51" selection-start-column="27" selection-end-line="51" selection-end-column="27" />
+          <folding>
+            <element signature="e#160#214#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/第二章抽象数据类型和Python类/person_manage_system.py" />
-    <entry file="file://$PROJECT_DIR$/第三章线性表/linklist.py">
+    <entry file="file://$PROJECT_DIR$/第三章线性表/lclist.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="94" column="28" lean-forward="true" selection-start-line="94" selection-start-column="28" selection-end-line="94" selection-end-column="28" />
+        <state relative-caret-position="473">
+          <caret line="62" lean-forward="true" selection-start-line="62" selection-end-line="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第三章线性表/dlist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-40">
+          <caret line="30" column="27" lean-forward="true" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
+          <folding>
+            <element signature="e#159#206#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/第三章线性表/第三章线性表.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="240" column="8" lean-forward="true" selection-start-line="240" selection-start-column="8" selection-end-line="240" selection-end-column="8" />
+        <state relative-caret-position="573">
+          <caret line="288" selection-start-line="288" selection-end-line="288" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第三章线性表/linklist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="466">
+          <caret line="106" column="53" selection-start-line="106" selection-start-column="53" selection-end-line="106" selection-end-column="53" />
         </state>
       </provider>
     </entry>
