@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25c5e344-b826-4931-998a-c89a317c1008" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/第二张抽象数据类型和Python类/person_manage_system.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第二张抽象数据类型和Python类/person_manage_system.py" beforeDir="false" afterPath="$PROJECT_DIR$/第二张抽象数据类型和Python类/person_manage_system.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/第二张抽象数据类型和Python类/第二章抽象数据类型和Python类.txt" beforeDir="false" afterPath="$PROJECT_DIR$/第二张抽象数据类型和Python类/第二章抽象数据类型和Python类.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,8 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/第二张抽象数据类型和Python类/第二章抽象数据类型和Python类.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="558">
-              <caret line="339" selection-start-line="339" selection-end-line="339" />
+            <state relative-caret-position="840">
+              <caret line="372" selection-start-line="372" selection-end-line="372" />
             </state>
           </provider>
         </entry>
@@ -26,8 +25,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/第二张抽象数据类型和Python类/person_manage_system.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="358">
-              <caret line="88" column="48" lean-forward="true" selection-start-line="88" selection-start-column="48" selection-end-line="88" selection-end-column="48" />
+            <state relative-caret-position="816">
+              <caret line="147" column="51" selection-start-line="147" selection-start-column="51" selection-end-line="147" selection-end-column="51" />
             </state>
           </provider>
         </entry>
@@ -53,8 +52,8 @@
         <option value="$PROJECT_DIR$/第二张抽象数据类型和Python类/rational.py" />
         <option value="$PROJECT_DIR$/第二张抽象数据类型和Python类/cls_counter.py" />
         <option value="$PROJECT_DIR$/第二张抽象数据类型和Python类/heapq_try.py" />
-        <option value="$PROJECT_DIR$/第二张抽象数据类型和Python类/第二章抽象数据类型和Python类.txt" />
         <option value="$PROJECT_DIR$/第二张抽象数据类型和Python类/person_manage_system.py" />
+        <option value="$PROJECT_DIR$/第二张抽象数据类型和Python类/第二章抽象数据类型和Python类.txt" />
       </list>
     </option>
   </component>
@@ -217,7 +216,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="762" y="0" width="781" height="830" extended-state="0" />
+    <frame x="952" y="0" width="977" height="1038" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.475162" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -280,15 +280,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/第二张抽象数据类型和Python类/person_manage_system.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="358">
-          <caret line="88" column="48" lean-forward="true" selection-start-line="88" selection-start-column="48" selection-end-line="88" selection-end-column="48" />
+        <state relative-caret-position="816">
+          <caret line="147" column="51" selection-start-line="147" selection-start-column="51" selection-end-line="147" selection-end-column="51" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/第二张抽象数据类型和Python类/第二章抽象数据类型和Python类.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="558">
-          <caret line="339" selection-start-line="339" selection-end-line="339" />
+        <state relative-caret-position="840">
+          <caret line="372" selection-start-line="372" selection-end-line="372" />
         </state>
       </provider>
     </entry>
