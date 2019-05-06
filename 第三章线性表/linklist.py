@@ -101,10 +101,47 @@ class LList:
         p = None
         while self._head is not None:
             q = self._head
-            self._head = q.next # 摘下原来的首结点
+            self._head = q.next  # 摘下原来的首结点
             q._next = p
-            p = q               # 将刚摘下的结点加入p引用的结点序列
-        self._head = p          # 反转后的结点序列已经做好,重置表头链接
+            p = q  # 将刚摘下的结点加入p引用的结点序列
+        self._head = p  # 反转后的结点序列已经做好,重置表头链接
+
+    def sort1(self):
+        if self._head is None:
+            return
+        crt = self._head.next  # 从首结点之后开始处理
+        while crt is not None:
+            x = crt.elem
+            p = self._head
+            while p is not crt and p.elem <= x:  # 跳过小元素
+                p = p.next
+            while p is not crt:  # 倒换大元素,完成元素插入的工作
+                y = p.elem
+                p.elem = x
+                x = y
+                p = p.next
+            crt.elem = x
+            crt = crt.next  # 回填最后一个元素
+
+    def sort(self):
+        p = self._head
+        if p is None or p.next is None:
+            return
+        rem = p.next
+        p.next = None
+        while rem is not None:
+            p = self._head
+            q = None
+            while p is not None and p.elem <= rem.elem:
+                q = p
+                p = p.next
+            if q is None:
+                self._head = rem
+            else:
+                q.next = rem
+            q = rem
+            rem = rem.next
+            q.next = p
 
 
 if __name__ == '__main__':
