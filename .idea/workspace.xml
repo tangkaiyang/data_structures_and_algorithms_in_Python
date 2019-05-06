@@ -6,6 +6,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/第三章线性表/josephus.py" beforeDir="false" afterPath="$PROJECT_DIR$/第三章线性表/josephus.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第三章线性表/第三章线性表.txt" beforeDir="false" afterPath="$PROJECT_DIR$/第三章线性表/第三章线性表.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,20 +16,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/第三章线性表/第三章线性表.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4560">
-              <caret line="240" selection-start-line="240" selection-end-line="240" />
+            <state relative-caret-position="736">
+              <caret line="354" column="30" selection-start-line="354" selection-start-column="30" selection-end-line="354" selection-end-column="30" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/第三章线性表/josephus.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+            <state relative-caret-position="370">
+              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
             </state>
           </provider>
         </entry>
@@ -112,12 +113,12 @@
         <option value="$PROJECT_DIR$/第三章线性表/dlist.py" />
         <option value="$PROJECT_DIR$/第三章线性表/list_sort.py" />
         <option value="$PROJECT_DIR$/第三章线性表/linklist.py" />
-        <option value="$PROJECT_DIR$/第三章线性表/第三章线性表.txt" />
         <option value="$PROJECT_DIR$/第三章线性表/josephus.py" />
+        <option value="$PROJECT_DIR$/第三章线性表/第三章线性表.txt" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="956" />
     <option name="width" value="964" />
     <option name="height" value="1038" />
@@ -277,14 +278,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="956" y="0" width="964" height="1038" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.47497338" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2950276" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.11504425" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3066089" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -331,13 +331,6 @@
     <entry file="file://$PROJECT_DIR$/第二章抽象数据类型和Python类/heapq_try.py" />
     <entry file="file://$PROJECT_DIR$/第二章抽象数据类型和Python类/第二章抽象数据类型和Python类.txt" />
     <entry file="file://$PROJECT_DIR$/第二章抽象数据类型和Python类/person_manage_system.py" />
-    <entry file="file://$PROJECT_DIR$/第三章线性表/第三章线性表.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4560">
-          <caret line="240" selection-start-line="240" selection-end-line="240" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/第三章线性表/list_sort.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
@@ -381,8 +374,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/第三章线性表/josephus.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+        <state relative-caret-position="370">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第三章线性表/第三章线性表.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="736">
+          <caret line="354" column="30" selection-start-line="354" selection-start-column="30" selection-end-line="354" selection-end-column="30" />
         </state>
       </provider>
     </entry>

@@ -27,5 +27,16 @@ def josephus_A(n, k, m):
     return
 
 
+def josephus_L(n, k, m):
+    people = list(range(1, n+1))
+    num, i = n, k-1
+    for num in range(n, 0, -1):
+        i = (i + m - 1) % num
+        print(people.pop(i),
+              end=(", " if num > 1 else "\n"))
+    return
+
+
 if __name__ == '__main__':
     josephus_A(10, 2, 7)
+    josephus_L(10, 2, 7)
