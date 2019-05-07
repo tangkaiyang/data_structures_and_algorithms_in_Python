@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25c5e344-b826-4931-998a-c89a317c1008" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/第四章字符串/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/第四章字符串/naive_matching.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/第四章字符串/第四章字符串.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三章线性表/my_josephus.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/data_structures_and_algorithms_in_Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/data_structures_and_algorithms_in_Python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/第三章线性表/josephus.py" beforeDir="false" afterPath="$PROJECT_DIR$/第三章线性表/josephus.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/第三章线性表/第三章线性表.txt" beforeDir="false" afterPath="$PROJECT_DIR$/第三章线性表/第三章线性表.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第一章绪论/sqrt.py" beforeDir="false" afterPath="$PROJECT_DIR$/第一章绪论/sqrt.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第四章字符串/naive_matching.py" beforeDir="false" afterPath="$PROJECT_DIR$/第四章字符串/naive_matching.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第四章字符串/第四章字符串.txt" beforeDir="false" afterPath="$PROJECT_DIR$/第四章字符串/第四章字符串.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,26 +17,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/第四章字符串/第四章字符串.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="563">
-              <caret line="76" selection-start-line="76" selection-end-line="76" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/第四章字符串/naive_matching.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -50,7 +32,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/第一章绪论/sqrt.py" />
         <option value="$PROJECT_DIR$/第一章绪论/第一章绪论.txt" />
         <option value="$PROJECT_DIR$/第二张抽象数据类型和Python类/gcd.py" />
         <option value="$PROJECT_DIR$/第二张抽象数据类型和Python类/rational.py" />
@@ -65,6 +46,7 @@
         <option value="$PROJECT_DIR$/第三章线性表/linklist.py" />
         <option value="$PROJECT_DIR$/第三章线性表/josephus.py" />
         <option value="$PROJECT_DIR$/第三章线性表/第三章线性表.txt" />
+        <option value="$PROJECT_DIR$/第一章绪论/sqrt.py" />
         <option value="$PROJECT_DIR$/第四章字符串/第四章字符串.txt" />
         <option value="$PROJECT_DIR$/第四章字符串/naive_matching.py" />
       </list>
@@ -117,7 +99,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.josephus">
+  <component name="RunManager" selected="Python.sqrt">
     <configuration name="josephus" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="data_structures_and_algorithms_in_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -202,7 +184,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="person_manage_system" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="sqrt" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="data_structures_and_algorithms_in_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -210,11 +192,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第二张抽象数据类型和Python类" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第一章绪论" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第二张抽象数据类型和Python类/person_manage_system.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第一章绪论/sqrt.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -225,11 +207,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.sqrt" />
         <item itemvalue="Python.josephus" />
         <item itemvalue="Python.lclist" />
         <item itemvalue="Python.llist1" />
         <item itemvalue="Python.linklist" />
-        <item itemvalue="Python.person_manage_system" />
       </list>
     </recent_temporary>
   </component>
@@ -254,7 +236,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.11504425" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.39889503" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.30641592" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -276,11 +258,6 @@
           <line>18</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/第三章线性表/josephus.py</url>
-          <line>61</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -290,13 +267,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1507">
           <caret line="208" column="26" selection-start-line="208" selection-start-column="26" selection-end-line="208" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第一章绪论/sqrt.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
@@ -361,17 +331,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/第四章字符串/第四章字符串.txt">
+    <entry file="file://$PROJECT_DIR$/第一章绪论/sqrt.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="563">
-          <caret line="76" selection-start-line="76" selection-end-line="76" />
+        <state relative-caret-position="285">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/第四章字符串/naive_matching.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        <state relative-caret-position="380">
+          <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第四章字符串/第四章字符串.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="83" column="17" selection-start-line="83" selection-start-column="17" selection-end-line="83" selection-end-column="17" />
         </state>
       </provider>
     </entry>

@@ -12,4 +12,4 @@ def sqrt(x):
         y = (y + x/y)/2
     return y
 
-print(sqrt(2))
+print(sqrt(1000))
