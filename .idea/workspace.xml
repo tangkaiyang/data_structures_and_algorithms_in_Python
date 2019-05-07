@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25c5e344-b826-4931-998a-c89a317c1008" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/data_structures_and_algorithms_in_Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/data_structures_and_algorithms_in_Python.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第四章字符串/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第四章字符串/naive_matching.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第四章字符串/第四章字符串.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/第三章线性表/josephus.py" beforeDir="false" afterPath="$PROJECT_DIR$/第三章线性表/josephus.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/第三章线性表/第三章线性表.txt" beforeDir="false" afterPath="$PROJECT_DIR$/第三章线性表/第三章线性表.txt" afterDir="false" />
@@ -16,71 +17,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/第四章字符串/第四章字符串.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="563">
+              <caret line="76" selection-start-line="76" selection-end-line="76" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/第三章线性表/第三章线性表.txt">
+        <entry file="file://$PROJECT_DIR$/第四章字符串/naive_matching.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="736">
-              <caret line="354" column="30" selection-start-line="354" selection-start-column="30" selection-end-line="354" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/第三章线性表/josephus.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="370">
-              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/第三章线性表/list_sort.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/第三章线性表/dlist.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="551">
-              <caret line="30" column="27" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
-              <folding>
-                <element signature="e#159#206#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/第三章线性表/llist1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="950">
-              <caret line="51" column="27" selection-start-line="51" selection-start-column="27" selection-end-line="51" selection-end-column="27" />
-              <folding>
-                <element signature="e#160#214#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/第三章线性表/lclist.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1178">
-              <caret line="62" selection-start-line="62" selection-end-line="62" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/第三章线性表/linklist.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3135">
-              <caret line="165" selection-start-line="165" selection-end-line="165" />
+            <state relative-caret-position="361">
+              <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -115,6 +65,8 @@
         <option value="$PROJECT_DIR$/第三章线性表/linklist.py" />
         <option value="$PROJECT_DIR$/第三章线性表/josephus.py" />
         <option value="$PROJECT_DIR$/第三章线性表/第三章线性表.txt" />
+        <option value="$PROJECT_DIR$/第四章字符串/第四章字符串.txt" />
+        <option value="$PROJECT_DIR$/第四章字符串/naive_matching.py" />
       </list>
     </option>
   </component>
@@ -127,7 +79,25 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes />
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="data_structures_and_algorithms_in_Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="data_structures_and_algorithms_in_Python" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="data_structures_and_algorithms_in_Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="data_structures_and_algorithms_in_Python" type="462c0819:PsiDirectoryNode" />
+              <item name="第四章字符串" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -279,13 +249,13 @@
   <component name="ToolWindowManager">
     <frame x="956" y="0" width="964" height="1038" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.47497338" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.47408208" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.11504425" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3066089" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.30641592" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -305,6 +275,11 @@
           <url>file://$PROJECT_DIR$/第二章抽象数据类型和Python类/gcd.py</url>
           <line>18</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/第三章线性表/josephus.py</url>
+          <line>61</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -331,6 +306,27 @@
     <entry file="file://$PROJECT_DIR$/第二章抽象数据类型和Python类/heapq_try.py" />
     <entry file="file://$PROJECT_DIR$/第二章抽象数据类型和Python类/第二章抽象数据类型和Python类.txt" />
     <entry file="file://$PROJECT_DIR$/第二章抽象数据类型和Python类/person_manage_system.py" />
+    <entry file="file://$PROJECT_DIR$/第三章线性表/linklist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第三章线性表/第三章线性表.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="563">
+          <caret line="362" column="35" selection-start-line="362" selection-start-column="35" selection-end-line="362" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第三章线性表/josephus.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/第三章线性表/list_sort.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
@@ -340,7 +336,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/第三章线性表/dlist.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
+        <state relative-caret-position="539">
           <caret line="30" column="27" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
           <folding>
             <element signature="e#159#206#0" expanded="true" />
@@ -350,7 +346,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/第三章线性表/llist1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="950">
+        <state relative-caret-position="539">
           <caret line="51" column="27" selection-start-line="51" selection-start-column="27" selection-end-line="51" selection-end-column="27" />
           <folding>
             <element signature="e#160#214#0" expanded="true" />
@@ -360,29 +356,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/第三章线性表/lclist.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1178">
-          <caret line="62" selection-start-line="62" selection-end-line="62" />
+        <state relative-caret-position="303">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/第三章线性表/linklist.py">
+    <entry file="file://$PROJECT_DIR$/第四章字符串/第四章字符串.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3135">
-          <caret line="165" selection-start-line="165" selection-end-line="165" />
+        <state relative-caret-position="563">
+          <caret line="76" selection-start-line="76" selection-end-line="76" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/第三章线性表/josephus.py">
+    <entry file="file://$PROJECT_DIR$/第四章字符串/naive_matching.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="370">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第三章线性表/第三章线性表.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="736">
-          <caret line="354" column="30" selection-start-line="354" selection-start-column="30" selection-end-line="354" selection-end-column="30" />
+        <state relative-caret-position="361">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
         </state>
       </provider>
     </entry>
