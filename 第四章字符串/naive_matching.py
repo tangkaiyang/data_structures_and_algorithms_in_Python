@@ -34,3 +34,33 @@ def matching_KMP(t, p, pnext):
     if i == m:
         return j - i
     return -1
+
+
+def gen_pnext(p):
+    # pnext = [0 for i in range(len(p))]
+    # pnext[0] = -1
+    # i = 0
+    # while i < len(pnext):
+    #     i += 1
+    #     if pnext[i-1]+1 == -1:
+    #
+    #     if p[i] == p[pnext[i-1]+1]:
+    #         pnext[i] = pnext[i-1]+1
+    #     elif
+    """生成针对p中各位置i的下一检查位置表,用于KMP算法"""
+    i, k, m = 0, -1, len(p)
+    pnext = [-1] * m        # 初始数组元素全为-1
+    while i < m-1:          # 生成下一个pnext元素值
+        if k == -1 or p[i] == p[k]:
+            i, k = i+1, k+1
+            pnext[i] = k    # 设置pnext元素
+        else:
+            k = pnext[k]    # 退到更短相同前缀
+    return pnext
+
+# pnext生成算法的改进:pi!=tj时,pnext[i]=k,如果pi=pk,那么pk!=tj.
+
+
+if __name__ == '__main__':
+    print(gen_pnext("abbcabcaabbcaa"))
+
