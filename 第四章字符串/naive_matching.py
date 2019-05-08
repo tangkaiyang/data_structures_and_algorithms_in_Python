@@ -49,18 +49,33 @@ def gen_pnext(p):
     #     elif
     """生成针对p中各位置i的下一检查位置表,用于KMP算法"""
     i, k, m = 0, -1, len(p)
-    pnext = [-1] * m        # 初始数组元素全为-1
-    while i < m-1:          # 生成下一个pnext元素值
+    pnext = [-1] * m  # 初始数组元素全为-1
+    while i < m - 1:  # 生成下一个pnext元素值
         if k == -1 or p[i] == p[k]:
-            i, k = i+1, k+1
-            pnext[i] = k    # 设置pnext元素
+            i, k = i + 1, k + 1
+            pnext[i] = k  # 设置pnext元素
         else:
-            k = pnext[k]    # 退到更短相同前缀
+            k = pnext[k]  # 退到更短相同前缀
     return pnext
 
-# pnext生成算法的改进:pi!=tj时,pnext[i]=k,如果pi=pk,那么pk!=tj.
+
+# pnext生成算法的改进:pi!=tj时,pnext[i]=k,如果pi=pk,那么pk!=tj.设pnext[i]=k,如果pi=pk,那么pk!=tj.
+# 实际上模式串应该右移到pnext[k](而不是仅右移到pnext[i]),下一步应该用ppnext[k]与tj比较
+def gen_pnext_p(p):
+    i, k, m = 0, -1, len(p)
+    pnext = [-1] * m
+    while i < m - 1:
+        if k == -1 or p[i] == p[k]:
+            i, k = i + 1, k + 1
+            if p[i] == p[k]:
+                pnext[i] = pnext[k]
+            else:
+                pnext[i] = k
+        else:
+            k = pnext[k]
+    return pnext
 
 
 if __name__ == '__main__':
     print(gen_pnext("abbcabcaabbcaa"))
-
+    print(gen_pnext_p("abbcabcaabbcaa"))
