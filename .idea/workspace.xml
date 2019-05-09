@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25c5e344-b826-4931-998a-c89a317c1008" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/第四章字符串/sumint.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/第四章字符串/第四章字符串.txt" beforeDir="false" afterPath="$PROJECT_DIR$/第四章字符串/第四章字符串.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,7 +16,7 @@
         <entry file="file://$PROJECT_DIR$/第四章字符串/第四章字符串.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="538">
-              <caret line="274" column="11" selection-start-line="274" selection-start-column="11" selection-end-line="274" selection-end-column="11" />
+              <caret line="320" selection-start-line="320" selection-end-line="320" />
             </state>
           </provider>
         </entry>
@@ -27,7 +25,7 @@
         <entry file="file://$PROJECT_DIR$/第四章字符串/sumint.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="190">
-              <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+              <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -35,7 +33,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/第四章字符串/naive_matching.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
+            <state relative-caret-position="1539">
               <caret line="81" selection-start-line="81" selection-end-line="81" />
             </state>
           </provider>
@@ -44,7 +42,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/第四章字符串/naive_match.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="438">
+            <state relative-caret-position="912">
               <caret line="48" selection-start-line="48" selection-end-line="48" />
             </state>
           </provider>
@@ -88,8 +86,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="958" />
-    <option name="width" value="964" />
+    <option name="x" value="891" />
+    <option name="width" value="1031" />
     <option name="height" value="1038" />
   </component>
   <component name="ProjectView">
@@ -246,7 +244,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="958" y="0" width="964" height="1038" extended-state="0" />
+    <frame x="891" y="0" width="1031" height="1038" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.47408208" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -355,31 +353,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/第四章字符串/naive_matching.py">
+    <entry file="file://$PROJECT_DIR$/第四章字符串/第四章字符串.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="81" selection-start-line="81" selection-end-line="81" />
+        <state relative-caret-position="538">
+          <caret line="320" selection-start-line="320" selection-end-line="320" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/第四章字符串/sumint.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
-          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第四章字符串/naive_matching.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1539">
+          <caret line="81" selection-start-line="81" selection-end-line="81" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/第四章字符串/naive_match.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="438">
+        <state relative-caret-position="912">
           <caret line="48" selection-start-line="48" selection-end-line="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第四章字符串/第四章字符串.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="538">
-          <caret line="274" column="11" selection-start-line="274" selection-start-column="11" selection-end-line="274" selection-end-column="11" />
         </state>
       </provider>
     </entry>
