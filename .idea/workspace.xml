@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25c5e344-b826-4931-998a-c89a317c1008" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/第四章字符串/naive_match.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/data_structures_and_algorithms_in_Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/data_structures_and_algorithms_in_Python.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第四章字符串/sumint.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/第四章字符串/第四章字符串.txt" beforeDir="false" afterPath="$PROJECT_DIR$/第四章字符串/第四章字符串.txt" afterDir="false" />
     </list>
@@ -19,8 +17,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/第四章字符串/第四章字符串.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="729">
-              <caret line="203" column="65" selection-start-line="203" selection-start-column="65" selection-end-line="203" selection-end-column="65" />
+            <state relative-caret-position="538">
+              <caret line="274" column="11" selection-start-line="274" selection-start-column="11" selection-end-line="274" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/第四章字符串/sumint.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -28,7 +35,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/第四章字符串/naive_matching.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="740">
+            <state relative-caret-position="459">
               <caret line="81" selection-start-line="81" selection-end-line="81" />
             </state>
           </provider>
@@ -37,8 +44,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/第四章字符串/naive_match.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+            <state relative-caret-position="438">
+              <caret line="48" selection-start-line="48" selection-end-line="48" />
             </state>
           </provider>
         </entry>
@@ -75,6 +82,7 @@
         <option value="$PROJECT_DIR$/第三章线性表/第三章线性表.txt" />
         <option value="$PROJECT_DIR$/第四章字符串/naive_matching.py" />
         <option value="$PROJECT_DIR$/第四章字符串/naive_match.py" />
+        <option value="$PROJECT_DIR$/第四章字符串/sumint.py" />
         <option value="$PROJECT_DIR$/第四章字符串/第四章字符串.txt" />
       </list>
     </option>
@@ -108,7 +116,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.naive_match">
+  <component name="RunManager" selected="Python.sumint">
     <configuration name="josephus" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="data_structures_and_algorithms_in_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -122,27 +130,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第三章线性表/josephus.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="lclist" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="data_structures_and_algorithms_in_Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第三章线性表" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第三章线性表/lclist.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -214,13 +201,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="sumint" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="data_structures_and_algorithms_in_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第四章字符串" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第四章字符串/sumint.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.sumint" />
         <item itemvalue="Python.naive_match" />
         <item itemvalue="Python.naive_matching" />
         <item itemvalue="Python.sqrt" />
         <item itemvalue="Python.josephus" />
-        <item itemvalue="Python.lclist" />
       </list>
     </recent_temporary>
   </component>
@@ -239,14 +247,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="958" y="0" width="964" height="1038" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.47408208" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.12278761" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3108407" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.30641592" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -254,7 +261,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" weight="0.335177" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="10" visible="true" weight="0.3340708" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -350,22 +357,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/第四章字符串/naive_matching.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="740">
+        <state relative-caret-position="459">
           <caret line="81" selection-start-line="81" selection-end-line="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第四章字符串/sumint.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/第四章字符串/naive_match.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        <state relative-caret-position="438">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/第四章字符串/第四章字符串.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="729">
-          <caret line="203" column="65" selection-start-line="203" selection-start-column="65" selection-end-line="203" selection-end-column="65" />
+        <state relative-caret-position="538">
+          <caret line="274" column="11" selection-start-line="274" selection-start-column="11" selection-end-line="274" selection-end-column="11" />
         </state>
       </provider>
     </entry>
