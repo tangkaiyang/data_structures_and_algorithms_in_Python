@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25c5e344-b826-4931-998a-c89a317c1008" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/第五章栈和队列/.ipynb_checkpoints/第五章栈和队列-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/第五章栈和队列/.ipynb_checkpoints/第五章栈和队列-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第五章栈和队列/check_parens.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/第五章栈和队列/第五章栈和队列.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/第五章栈和队列/第五章栈和队列.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,37 +14,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/第四章字符串/第四章字符串.txt">
+        <entry file="file://D:/Anaconda3/Lib/codecs.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="538">
+            <state relative-caret-position="518">
               <caret line="321" selection-start-line="321" selection-end-line="321" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/第四章字符串/sumint.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/第四章字符串/naive_matching.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1539">
-              <caret line="81" selection-start-line="81" selection-end-line="81" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/第四章字符串/naive_match.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="912">
-              <caret line="48" selection-start-line="48" selection-end-line="48" />
             </state>
           </provider>
         </entry>
@@ -83,10 +56,11 @@
         <option value="$PROJECT_DIR$/第四章字符串/naive_match.py" />
         <option value="$PROJECT_DIR$/第四章字符串/sumint.py" />
         <option value="$PROJECT_DIR$/第四章字符串/第四章字符串.txt" />
+        <option value="$PROJECT_DIR$/第五章栈和队列/check_parens.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="891" />
     <option name="width" value="1031" />
     <option name="height" value="1038" />
@@ -115,8 +89,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.sumint">
-    <configuration name="josephus" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.check_parens">
+    <configuration name="check_parens" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="data_structures_and_algorithms_in_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -124,11 +98,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第三章线性表" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第五章栈和队列" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第三章线性表/josephus.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第五章栈和队列/check_parens.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -223,11 +197,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.check_parens" />
         <item itemvalue="Python.sumint" />
         <item itemvalue="Python.naive_match" />
         <item itemvalue="Python.naive_matching" />
         <item itemvalue="Python.sqrt" />
-        <item itemvalue="Python.josephus" />
       </list>
     </recent_temporary>
   </component>
@@ -245,25 +219,25 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="891" y="0" width="1031" height="1038" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.47408208" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3108407" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.30641592" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Python Console" order="10" visible="true" weight="0.33370167" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.23318872" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Version Control" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="9" weight="0.33370167" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Debug" order="3" side_tool="true" weight="0.52558637" />
     </layout>
   </component>
   <component name="XDebuggerManager">
@@ -273,6 +247,11 @@
           <url>file://$PROJECT_DIR$/第二章抽象数据类型和Python类/gcd.py</url>
           <line>18</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/第五章栈和队列/check_parens.py</url>
+          <line>63</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -354,13 +333,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/第五章栈和队列/第五章栈和队列.ipynb" />
     <entry file="file://$PROJECT_DIR$/第四章字符串/第四章字符串.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="538">
-          <caret line="321" selection-start-line="321" selection-end-line="321" />
+        <state relative-caret-position="44">
+          <caret line="295" column="24" selection-start-line="295" selection-start-column="24" selection-end-line="295" selection-end-column="24" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第五章栈和队列/第五章栈和队列.ipynb">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/第四章字符串/sumint.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -371,15 +352,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/第四章字符串/naive_matching.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1539">
+        <state relative-caret-position="514">
           <caret line="81" selection-start-line="81" selection-end-line="81" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/第四章字符串/naive_match.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="912">
+        <state relative-caret-position="514">
           <caret line="48" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第五章栈和队列/check_parens.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="44" column="57" lean-forward="true" selection-start-line="44" selection-start-column="57" selection-end-line="44" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda3/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="518">
+          <caret line="321" selection-start-line="321" selection-end-line="321" />
         </state>
       </provider>
     </entry>
